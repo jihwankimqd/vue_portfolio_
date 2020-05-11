@@ -115,7 +115,8 @@
                                         control menu, and can be used to randomize, or choose different sorting algorithms to visualize.
                                         Includes an interface menu to randomize the candles and multiple sorting algorithms to test.
                                     </p>
-                                    <button type="button" class="btn btn-outline-secondary">More</button>
+                                    <a href="https://jihwankimqd.github.io/vue_sorting_vis_/"><button type="button" class="btn btn-outline-secondary">More</button></a>
+
                                 </div>
                             </div>
                             <br>
@@ -135,7 +136,7 @@
                                         in the environment. Solved using the 4th order Runge-Kutta Method, a predictive model of rabbit and fox population
                                         had been produced over a time period.
                                     </p>
-                                    <button type="button" class="btn btn-outline-secondary">More</button>
+                                    <a href="https://github.com/jihwankimqd/Coursework-and-Projects/tree/master/lowpassRC"><button type="button" class="btn btn-outline-secondary">More</button></a>
                                 </div>
                             </div>
                         <br>
@@ -155,7 +156,7 @@
                                     simplified it into first order differential equations and plotted a predictive model of its projectory
                                     over different angles to see if it could shoot down a flying plane at different times.
                                 </p>
-                                <button type="button" class="btn btn-outline-secondary">More</button>
+                                    <a href="https://github.com/jihwankimqd/Coursework-and-Projects/tree/master/motion_kepler_and_projectile"><button type="button" class="btn btn-outline-secondary">More</button></a>
                             </div>
                         </div>
                     </div>
@@ -173,7 +174,8 @@
                                     prize is. Solved using conditional probabilities. By not knowing this fact, it affects the probability of the contestant winning the prize
                                     as shown in the simulation. 
                                 </p>
-                                <button type="button" class="btn btn-outline-secondary">More</button>
+                                    <a href="https://github.com/jihwankimqd/Coursework-and-Projects/tree/master/montyfall"><button type="button" class="btn btn-outline-secondary">More</button></a>
+
                             </div>
                         </div>
                     </div>
@@ -191,7 +193,8 @@
                                     The method can easily be generalized to higher dimensions (4,5,6,etc). Random sampling had been used
                                     and importance sampling would improve results.
                                 </p>
-                                <button type="button" class="btn btn-outline-secondary">More</button>
+                                    <a href="https://github.com/jihwankimqd/Coursework-and-Projects/tree/master/numerical_integrals_continued"><button type="button" class="btn btn-outline-secondary">More</button></a>
+
                             </div>
                         </div>
                     </div>
@@ -209,7 +212,8 @@
                                     Then, using LU decomposition, the eigenvalues/vectors had been found and used to generalize the problem
                                     to predict the voltage in a system of N resistors.
                                 </p>
-                                <button type="button" class="btn btn-outline-secondary">More</button>
+                                    <a href="https://github.com/jihwankimqd/Coursework-and-Projects/tree/master/banded_matrix"><button type="button" class="btn btn-outline-secondary">More</button></a>
+
                             </div>
                         </div>
                     </div>
