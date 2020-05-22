@@ -83,7 +83,7 @@
                                     I have lived in 6 different countries: Korea, Malaysia, China, Indonesia, Hong Kong, Philippines.
                                     I speak Korean (Native), English (Fluent), Mandarin (Basic), Indonesian (Basic). Oweing to my experience living
                                     in different countries, I really get along with everyone from any background. In the past, I also read and analysed
-                                    English language and literature, which improved my writing.
+                                    English language and literature for insights and wisdom!
                                 </p>
                             </div>
                         </div>
@@ -104,18 +104,21 @@
                     <div class="col-md-4">
                             <div class="card">
                                 <div class="card-head">
-                                    <img alt="Vue logo" class="rounded-circle img-custome" src="../../assets/vuesorting.png">
-                                    <h2>Vue.js Sorting Algorithms Visualizer</h2>
+                                    <img alt="Vue logo" class="rounded-circle img-custome" src="../../assets/mcmccipher.png">
+                                    <h2>Cipher Decrpytion, <br/> Text Mining</h2>
                                 </div>
                                 <hr>
                                 <div class="card-body">
-                                    <p>Javascript Vue.js, HTML, CSS</p>
+                                    <p>Python</p>
                                     <p>
-                                         Programmed a sorting algorithm visualizer. Different options are available in the
-                                        control menu, and can be used to randomize, or choose different sorting algorithms to visualize.
-                                        Includes an interface menu to randomize the candles and multiple sorting algorithms to test.
+                                        Program to mine text data from English Classics for frequency analysis of the language. Then 
+                                        used the Markov Chain Monte Carlo (MCMC) method to sample from a complex distribution to find 
+                                        a decryption key to the cipher.
+                                        <br/>
+                                        <br/>
+
                                     </p>
-                                    <a href="https://jihwankimqd.github.io/vue_sorting_vis_/"><button type="button" class="btn btn-outline-secondary">More</button></a>
+                                    <a href="https://github.com/jihwankimqd/MCMC_Cipher"><button type="button" class="btn btn-outline-secondary">More</button></a>
 
                                 </div>
                             </div>
@@ -199,23 +202,24 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="card">
-                            <div class="card-head">
-                                <img alt="Vue logo" class="rounded-circle img-custome" src="../../assets/ludecomp.png">
-                                <h2>Linear Algebra and Banded Matrix</h2>
-                            </div>
-                            <hr>
-                            <div class="card-body">
-                                <p>Python Numpy Matplotlib</p>
-                                <p>
-                                    Used Ohm's law and Kirchoff's laws to simplify the problem into a set of linear algebra eqautions. 
-                                    Then, using LU decomposition, the eigenvalues/vectors had been found and used to generalize the problem
-                                    to predict the voltage in a system of N resistors.
-                                </p>
-                                    <a href="https://github.com/jihwankimqd/Coursework-and-Projects/tree/master/banded_matrix"><button type="button" class="btn btn-outline-secondary">More</button></a>
+                            <div class="card">
+                                <div class="card-head">
+                                    <img alt="Vue logo" class="rounded-circle img-custome" src="../../assets/vuesorting.png">
+                                    <h2>Vue.js Sorting Algorithms Visualizer</h2>
+                                </div>
+                                <hr>
+                                <div class="card-body">
+                                    <p>Javascript Vue.js, HTML, CSS</p>
+                                    <p>
+                                         Programmed a sorting algorithm visualizer. Different options are available in the
+                                        control menu, and can be used to randomize, or choose different sorting algorithms to visualize.
+                                        Includes an interface menu to randomize the candles and multiple sorting algorithms to test.
+                                    </p>
+                                    <a href="https://jihwankimqd.github.io/vue_sorting_vis_/"><button type="button" class="btn btn-outline-secondary">More</button></a>
 
+                                </div>
                             </div>
-                        </div>
+                            <br>
                     </div>
                 </div>
             </div>
@@ -248,14 +252,14 @@
     }
 
     .about{
-        background-color: #03469259;
+        background-color: white;
         padding-top: 8%;
         padding-bottom: 15%;
         /* padding:15% */
     }
 
     .portfolio{
-        background-color: #19199638;
+        background-color: rgb(250,250,250);
         padding-top: 8%;
         padding-bottom: 15%;
         /* padding:15% */

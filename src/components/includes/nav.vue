@@ -9,11 +9,11 @@
                     <div>
                     <ul>
                         <li><a href="">Home</a></li>
-                        <!-- <li><a href="./lander.vue#about">About</a></li> -->
-                        <li><a href="./blob/master/src/components/includes/lander.vue#about">About</a></li>
+                        <!-- <li><a  href="./lander.vue#about" >About</a></li> -->
+                        <li><a href="./blob/master/src/components/includes/lander.vue#about" >About</a></li>
 
                         <!-- <li><a href="./lander.vue#projects">Projects</a></li> -->
-                        <li><a href="./blob/master/src/components/includes/lander.vue#projects">Projects</a></li>
+                        <li><a href="./blob/master/src/components/includes/lander.vue#projects"  >Projects</a></li>
 
                     </ul>
                     </div>
@@ -38,7 +38,9 @@
     left: 0;
     z-index: 1;
   }
-  
+
+
+
   .menu-wrap .toggler {
     position: absolute;
     top: 0;
@@ -49,7 +51,8 @@
     height: 50px;
     opacity: 0;
   }
-  
+
+
   .menu-wrap .hamburger {
     position: absolute;
     top: 0;
@@ -70,7 +73,7 @@
     flex: none;
     width: 100%;
     height: 2px;
-    background: #fff;
+    background: lightgrey;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -115,6 +118,8 @@
   .menu-wrap .toggler:checked ~ .menu {
     visibility: visible;
   }
+
+
   
   .menu-wrap .toggler:checked ~ .menu > div {
     transform: scale(1);
@@ -174,4 +179,3 @@
   }
   
 </style>
-
