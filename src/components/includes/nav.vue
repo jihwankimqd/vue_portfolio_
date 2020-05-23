@@ -2,19 +2,17 @@
     <div class="">
         <nav class="fix-top">
             <div class="menu-wrap">
-                <input type="checkbox" class="toggler">
+                <input type="checkbox" class="toggler" data-toggle="collapse" data-target=".navbar-collapse">
                 <div class="hamburger"><div></div></div>
                 <div class="menu">
                 <div>
                     <div>
                     <ul>
                         <li><a href="">Home</a></li>
-                        <li><a  href="./#about" >About</a></li>
+                        <li><a href="./#about" onclick="javascript:window.location.reload();">About</a></li>
                         <!-- <li><a href="./blob/master/src/components/includes/lander.vue#about" >About</a></li> -->
-
-                        <li><a href="./#projects">Projects</a></li>
+                        <li><a href="./#projects" onclick="javascript:window.location.reload();">Projects</a></li>
                         <!-- <li><a href="./blob/master/src/components/includes/lander.vue#projects"  >Projects</a></li> -->
-
                     </ul>
                     </div>
                 </div>
