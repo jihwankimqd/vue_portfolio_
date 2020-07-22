@@ -111,10 +111,11 @@
                                 <div class="card-body">
                                     <p>Python</p>
                                     <p>
-                                        Program to mine text data from English Classics for frequency analysis of the language. Then 
-                                        used the Markov Chain Monte Carlo (MCMC) method to sample from a complex distribution to find 
-                                        a decryption key to the cipher.
+                                        A program to decrypt random substitution ciphers using the Markov Chain Monte Carlo (MCMC) method.
+                                        Mining trigrams from English literatures to 'teach' the model to crack ciphers resuled in at least 97%
+                                        accuracy for tested texts.
                                         <br/>
+                                        Inspired by the flim "The Imitation Game".
                                         <br/>
 
                                     </p>
@@ -128,18 +129,19 @@
                     <div class="col-md-4">
                             <div class="card">
                                 <div class="card-head">
-                                    <img alt="Vue logo" class="rounded-circle img-custome" src="../../assets/lotkavolterra.png">
-                                    <h2>Population Modelling, Competition Equations</h2>
+                                    <img alt="Vue logo" class="rounded-circle img-custome" src="../../assets/kospilive.png">
+                                    <h2>Live KOSPI Stock Scraper</h2>
                                 </div>
                                 <hr>
                                 <div class="card-body">
-                                    <p>Python Numpy Matplotlib</p>
+                                    <p>Python Pandas Dash</p>
                                     <p>
-                                        Used Lotka-Volterra Equations, which show the mathematical model between the interactions between predator and prey
-                                        in the environment. Solved using the 4th order Runge-Kutta Method, a predictive model of rabbit and fox population
-                                        had been produced over a time period.
+                                        A live KOSPI Stock viewer from scraping real time stock data. Includes a
+                                        chart, company's financial information, and daily stock information for specific 
+                                        tickers which can be chosen from a dropdown menu. Allows non-Korean speakers to understand
+                                        up-to-date KOSPI stock information.
                                     </p>
-                                    <a href="https://github.com/jihwankimqd/Coursework-and-Projects/tree/master/lowpassRC"><button type="button" class="btn btn-outline-secondary">More</button></a>
+                                    <a href="https://kospi-stocks.herokuapp.com/"><button type="button" class="btn btn-outline-secondary">More</button></a>
                                 </div>
                             </div>
                         <br>
