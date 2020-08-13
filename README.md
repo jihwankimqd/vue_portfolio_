@@ -1,4 +1,4 @@
-# vuex-example
+# Single Page Application using Vue.js. Follow steps below to compile and run locally, or view the live version.
 
 ## Project setup
 ```
